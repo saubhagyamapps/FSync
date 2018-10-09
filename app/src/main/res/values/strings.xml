@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FSync</string>
+    <string-array name="type">
+        <item>Select Type</item>
+        <item>Picture</item>
+        <item>Video</item>
+        <!-- <item>Pdf</item>
+        <item>Doc</item>
+        <item>Text</item>-->
+
+    </string-array>
+
+</resources>
